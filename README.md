@@ -8,7 +8,7 @@
 
 DoodleJump-Assembly is an implementation of the vertical scroller game "Doodle Jump" written in assembly (MIPS), using the MARS simulator.
 
-It is designed to output to a bitmap array. A visual example of this can be seen using the MARS simulator's bitmap display (and the keyboard and display mmio simulator to accept user input).
+It is designed to output to a bitmap array. A visual example of this can be seen using the MARS simulator's bitmap display (and the MARS keyboard and display mmio simulator to accept user input).
 
 ## Application Features
 
