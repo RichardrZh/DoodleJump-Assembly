@@ -10,6 +10,8 @@ DoodleJump-Assembly is an implementation of the vertical scroller game "Doodle J
 
 It is designed to output to a bitmap array. A visual example of this can be seen using the MARS simulator's bitmap display (and the MARS keyboard and display mmio simulator to accept user input).
 
+The application is self-contained within ```doodlejump.s```. A copy of the MARS simulator is provided at ```Mars4_5.jar``` for convenience.
+
 ## Application Features
 
 This application allows you to play a simple Doodle Jump game, controlled by keyboard. It has 3 main screens, the welcome screen, main game screen, and ending screen.
